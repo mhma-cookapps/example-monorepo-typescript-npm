@@ -18,3 +18,4 @@ const cli = {
 export = cli
 // declare var module: any
 // module.exports = cli
+// test
