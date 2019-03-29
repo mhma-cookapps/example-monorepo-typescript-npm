@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.1.4](https://github.com/mhma-cookapps/test-example-monorepo-typescript-npm/tree/master/packages/utils/compare/@mamh/utils@0.1.3...@mamh/utils@0.1.4) (2019-03-29)
+
+
+### Bug Fixes
+
+* url ([6e8eb78](https://github.com/mhma-cookapps/test-example-monorepo-typescript-npm/tree/master/packages/utils/commit/6e8eb78))
+
+
+
+
+
 ## 0.1.3 (2019-03-29)
 
 
