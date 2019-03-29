@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "private": true,
   "main": "index.js",
-  "repository": "https://github.com/mhma-cookapps/test-example-monorepo-typescript-npm.git",
+  "repository": "git@github.com:mhma-cookapps/test-example-monorepo-typescript-npm.git",
   "author": "mhma <mhma@cookapps.com>",
   "license": "MIT",
   "scripts": {
