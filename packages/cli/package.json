@@ -19,9 +19,9 @@
     "typescript",
     "monorepo"
   ],
-  "repository": "https://github.com/cookpi/example-monorepo-typescript-npm/tree/master/packages/cli",
+  "repository": "https://github.com/mhma-cookapps/test-example-monorepo-typescript-npm/tree/master/packages/cli",
   "bugs": {
-    "url": "https://github.com/cookpi/example-monorepo-typescript-npm/issues"
+    "url": "https://github.com/mhma-cookapps/test-example-monorepo-typescript-npm/issues"
   },
   "homepage": "https://blog.cookapps.io",
   "publishConfig": {
