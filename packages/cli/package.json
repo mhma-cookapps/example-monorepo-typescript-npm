@@ -1,0 +1,30 @@
+{
+  "name": "@cooktest/cli",
+  "description": "",
+  "version": "0.2.0",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc --project tsconfig.json && tscpaths -p tsconfig.json -s ./src -o ./dist"
+  },
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "author": "jwkim2 <jwkim2@cookapps.com>",
+  "keywords": [
+    "cookpi",
+    "cookapps",
+    "npm",
+    "typescript",
+    "monorepo"
+  ],
+  "repository": "https://github.com/cookpi/example-monorepo-typescript-npm/tree/master/packages/cli",
+  "bugs": {
+    "url": "https://github.com/cookpi/example-monorepo-typescript-npm/issues"
+  },
+  "homepage": "https://blog.cookapps.io",
+  "publishConfig": {
+    "access": "public"
+  }
+}

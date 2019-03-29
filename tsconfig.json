@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "moduleResolution": "node",
+    "lib": ["es2015", "dom"],
+    "target": "es5",
+    "importHelpers": true,
+    "noImplicitAny": false,
+    "declaration": true,
+    "sourceMap": true,
+    "plugins": [
+      { "name": "typescript-tslint-plugin" }
+    ]
+  }
+}
