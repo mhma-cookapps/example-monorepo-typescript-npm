@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.2.4](https://github.com/mhma-cookapps/test-example-monorepo-typescript-npm/tree/master/packages/cli/compare/@mamh/cli@0.2.3...@mamh/cli@0.2.4) (2019-03-29)
+
+**Note:** Version bump only for package @mamh/cli
+
+
+
+
+
 ## [0.2.3](https://github.com/mhma-cookapps/test-example-monorepo-typescript-npm/tree/master/packages/cli/compare/@mamh/cli@0.2.2...@mamh/cli@0.2.3) (2019-03-29)
 
 
